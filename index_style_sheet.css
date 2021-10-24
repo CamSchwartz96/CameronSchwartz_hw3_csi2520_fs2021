@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 300;
+  font-size: 1.5rem;
+  background-color: gray;
+  color: black
+  }
+
+  a {
+    background-color: black;
+    color: white;
+    padding: 0em 1em;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  a:hover {
+    background-color: #555;
+  }
+  
+  a:active {
+    background-color: black;
+  }
+  
+  a:visited {
+    background-color: #ccc;
+  }
+
+  a:hover {
+    cursor: pointer;
+  }
+ 
+  .img {
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    border: 8px ridge black;  
+    padding: 5px; 
+
+  }
