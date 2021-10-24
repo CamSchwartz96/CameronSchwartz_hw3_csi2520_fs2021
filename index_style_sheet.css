@@ -41,11 +41,16 @@ body {
     cursor: pointer;
   }
  
-  .img {
-    display: block;  
-    margin-left: auto;  
-    margin-right: auto;  
-    border: 8px ridge black;  
-    padding: 5px; 
+  p {
+    font-size: 17px;
+    line-height: 32px;
+    margin-bottom: 12px;
+  } 
 
-  }
+.image-container{
+  width:250px;
+  height: 300px;
+  text-align: center;
+  line-height: 300px;
+}
+
