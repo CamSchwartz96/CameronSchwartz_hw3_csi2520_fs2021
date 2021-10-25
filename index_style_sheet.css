@@ -71,6 +71,17 @@ body {
     padding: 1em;
   }
 
+  h1 {
+    padding: 10px;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    border-width: 5px; 
+  }
+
   h2 {
     padding: 10px;
     font-weight: 700;
