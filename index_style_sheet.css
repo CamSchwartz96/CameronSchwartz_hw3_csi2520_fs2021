@@ -83,9 +83,9 @@ body {
   }
 
   h3 {
-    
-
-
-
-
+    font-weight: 500;
+    font-size: 12px;
+    padding: 0px;
+    text-align: left;
+    text-indent: 30px;
   }
