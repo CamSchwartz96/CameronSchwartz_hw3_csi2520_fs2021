@@ -66,10 +66,6 @@ body {
     background-color: black;
   }
   
-  a:visited {
-    background-color: #ccc;
-  }
-
   a:hover {
     cursor: pointer;
   }
